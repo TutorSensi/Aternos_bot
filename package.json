@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mineflayer": "^4.13.0"
+    "mineflayer": "github:PrismarineJS/mineflayer"
   }
 }
